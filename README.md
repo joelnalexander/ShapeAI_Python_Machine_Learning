@@ -1,22 +1,26 @@
-print(df.DESCR) #Info about the dataset
-
-Boston house prices dataset
----------------------------
-**Data Set Characteristics:**
-     :Number of Instances: 506
-     :Number of Attributes: 13 numeric/categorical predictive. Median Val
-     :Attribute Information (in order):
-          -CRIM     per capita crime rate by town
-          -ZN       proportion of residential land zoned for lots over 25
-          -INDUS    proportionof non-retail business acres per town
-          -CHAS     Charles River dummy variable (= 1 if tract bounds river)
-          -NOX      nitric oxides concentration (parts per 10 million)
-          -RM       average number of rooms per dwelling 
-          -AGE      proportion of owner-occupied units built prior to 1946
-          -DIS      weighted distances to five boston employment centres
-          -RAD      index of accessibility to radial highways
-          -TAX      full-value property-tax rate per $10,000
-          -PTRATIO  pupil-teacher ratio by town
-          -B        1000(BK - 0.63)^2 where BK is the proportion of blacks
-          -LSTAT    % lower status of the population
-          -MEDV     Median Value of owner-occupied homes in $1000's
+# SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulNEA-59W7wWgCWE8LEOD6h"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-5.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Machine Learning
+<li>Tensorflow
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+<a href="https://www.shapeai.tech"> www.shapeai.tech</a>
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
